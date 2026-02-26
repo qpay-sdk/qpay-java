@@ -1,5 +1,6 @@
 # QPay Java SDK
 
+[![CI](https://github.com/qpay-sdk/qpay-java/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-java/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Java SDK for the QPay V2 API. Provides a type-safe client with automatic token management, builder-pattern request construction, and comprehensive error handling.
