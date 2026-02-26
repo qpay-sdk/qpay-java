@@ -1,5 +1,6 @@
 # QPay Java SDK
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.qpay-sdk/qpay-java)](https://central.sonatype.com/artifact/io.github.qpay-sdk/qpay-java)
 [![CI](https://github.com/qpay-sdk/qpay-java/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-java/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -16,7 +17,7 @@ Java SDK for the QPay V2 API. Provides a type-safe client with automatic token m
 
 ```xml
 <dependency>
-    <groupId>mn.qpay</groupId>
+    <groupId>io.github.qpay-sdk</groupId>
     <artifactId>qpay-java</artifactId>
     <version>1.0.0</version>
 </dependency>
@@ -25,13 +26,13 @@ Java SDK for the QPay V2 API. Provides a type-safe client with automatic token m
 ### Gradle
 
 ```groovy
-implementation 'mn.qpay:qpay-java:1.0.0'
+implementation 'io.github.qpay-sdk:qpay-java:1.0.0'
 ```
 
 ### Gradle (Kotlin DSL)
 
 ```kotlin
-implementation("mn.qpay:qpay-java:1.0.0")
+implementation("io.github.qpay-sdk:qpay-java:1.0.0")
 ```
 
 ## Quick Start
